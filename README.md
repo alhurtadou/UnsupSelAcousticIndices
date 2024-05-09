@@ -8,5 +8,6 @@
 > 
 **Generation of graphical results**
 >The Python programs UnsupervisedResultsY1.py, UnsupervisedResultsY2.py and UnsupervisedResultsY3.py, generate plots to visualize the results of the unsupervised feature selection of acoustic indices, where positions in the feature ranking are shown by either colors (heat maps showing the whole feature ranking) or numbers (bar plots showing the results for the top-five ranking). See [Uribe-Hurtado et al., 2024] for further details.
+>
 **Reference:**
 >[Uribe-Hurtado et al., 2024] A.L. Uribe-Hurtado, F. Martínez-Tabares and M. Orozco-Alzate, 2024, "Unsupervised selection of acoustic indices: An experimental comparison for characterizing unlabeled audio recordings from sub-Andean forest soundscapes". Submitted to Environmental Modelling & Software.
