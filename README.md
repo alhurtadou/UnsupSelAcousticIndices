@@ -7,7 +7,5 @@
 >Similarly, SeparationYatarosQuarters.py separates the matrices of acoustic indices per dataset into four parts: day, afternoon, night and after-midnight. The program generates four .csv files for each matrix of acoustic indices that, in turn, correspond to a characterized subset. For example, for Yataros1.csv, it generates Yataros1Amanecer.csv, Yataros1Anochecer.csv, Yataros1Manana.csv, and Yataros1Tarde.csv and so on.
 > 
 **Generation of graphical results**
->The Python programs UnsupervisedResultsY1.py, UnsupervisedResultsY2.py and UnsupervisedResultsY3.py, generate plots to visualize the results of the unsupervised feature selection of acoustic indices, where positions in the feature ranking are shown by either colors (heat maps showing the whole feature ranking) or numbers (bar plots showing the results for the top-five ranking). See [Uribe-Hurtado et al., 2024] for further details.
+>The Python programs UnsupervisedResultsY1.py, UnsupervisedResultsY2.py and UnsupervisedResultsY3.py, generate plots to visualize the results of the unsupervised feature selection of acoustic indices, where positions in the feature ranking are shown by either colors (heat maps showing the whole feature ranking) or numbers (bar plots showing the results for the top-five ranking).
 >
-**Reference:**
->[Uribe-Hurtado et al., 2024] A.L. Uribe-Hurtado, F. Martínez-Tabares and M. Orozco-Alzate, 2024, "Unsupervised selection of acoustic indices: An experimental comparison for characterizing unlabeled audio recordings from sub-Andean forest soundscapes". Submitted to Environmental Modelling & Software.
